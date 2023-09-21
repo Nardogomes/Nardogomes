@@ -1,4 +1,7 @@
 ## Olá! Só alegria?! Sou Ednardo Gomes 👋
+<p>
+  Trabalho na área de suporte de informática desde 2014, quando consegui meu primeiro estágio para ingressar na área da tecnologia. Vim evoluindo com o conhecimento e consequente de função no passar dos anos e  isso proporcionou um melhor entendimento das necedades da empresa e quais as tecnologias que poderia utilizar em cada momento. Também me proporcionou a convivência nos vários setores de uma organização porque a TI acaba atuando em toda organização. Com isso lidamos com diferentes usuários, diferentes necessidades e temos que tomar a decisão de escolher a solução mais adequada para resolver a situação tentando não afetar negativamente outro setor ou a organização como um todo. Mas no sentido de resolver problemas quero ir além de apenas utilizar uma solução pronta. Quero desenvolvê-la, participar da construção dela de fato e tenho o objetivo de me tornar uma pessoa desenvolvedora. Venho focando meus estudos no desenvolvimento web, especificamente no Front-End, onde há um ano tenho estudados as tecnologias HTML, CSS, JavaScript e ReactJS para ser capaz de desenvolver soluções. E futuramente quando já tiver experiência já atuando com desenvolvedor Front-End quero ir além e avançar para o Back-End, assim me tornando um desenvolver fullstack, mas estou dando um passo de cada fez, primeiro vou me tornar um desenvolvedor Front-End.
+</p>
 
 ### O que eu já tenho um bom conhecimento
 <div style="display: inline_block"><br>
